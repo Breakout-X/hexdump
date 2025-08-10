@@ -43,9 +43,12 @@ But if you're feeling brave:
   `-license`   It's JSON<br>
   `--license`  Cry about it<br>
 
+---
+
 ## How do I compile it:
 
-Well if you can get over the fact that the documentation is basically useless, you can run these commands:
+Well if you can get over the fact that the README documentation is basically useless, 
+you can run these commands:
 
 **Windows:**
 ```
@@ -60,3 +63,30 @@ gcc hdump.s -o hdump
 ```
 
 These are definetly the commands trust
+
+---
+
+## Why is the default branch called `master`?
+
+Because I didn't feel like renaming it to `main` just to make anyone feel better 
+about themselves.
+
+If the word "master" offends you somehow in the context of a code branch, **too bad**.
+Since this was the default branch name in the past, I'm sticking with it.
+
+---
+
+## Why is the license `JSON` of all things
+
+Because I find it actually stupid that people hate on the one line 
+"The Software shall be used for Good, not Evil." so much.
+
+If that line is so offensive or "non-free" as OSI calls it, maybe ask yourself 
+why you hate it so much.
+
+The license is literally just MIT but asking you not to be a jerk. 
+Although I honestly could care less if you used `hexdump` as a tool to hack people for your own selfish
+gain, at the same time we all know that doing something like that would clearly be evil.
+
+Also, literally the creator of the JSON license confirmed that the reason 
+he put that quote in there was as a freaking joke.
